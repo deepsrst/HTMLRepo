@@ -2,4 +2,4 @@ index part
 
 this is index part.
 
-this is development
+this is development part
